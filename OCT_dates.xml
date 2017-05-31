@@ -1,0 +1,155 @@
+<projects published="2016-09-10T10:02:27" allocationyear="0">
+    <project>
+        <project_code>9999032</project_code>
+        <emergency id="0"/>
+        <donor>United Kingdom (DFID)</donor>
+        <donor_project_code> [OCT 9999020]</donor_project_code>
+        <recipient>OCHA</recipient>
+        <country>Burundi</country>
+        <cap_project_code>Regional Office for Southern Africa (O177)</cap_project_code>
+        <allocation_amount>70000</allocation_amount>
+        <allocation_amount_local_currency>GBP</allocation_amount_local_currency>
+        <allocation_amount_local>10000</allocation_amount_local>
+        <allocation_amount_rate>0.7</allocation_amount_rate>
+        <date type="Pledge">2016-08-11T00:00:00</date>
+        <date type="Fiscalyear">2016-01-01T00:00:00</date>
+        <allocation_type type="OCT">Distribution:Regional Office for Southern Africa  [OCT 5070]</allocation_type>        
+        <allocation_status>Pipeline</allocation_status>
+        <description>OCT  - description pipeline NEW 1 with pledge date</description>
+        <created_date>2016-09-01T15:00:00</created_date>
+        <lastupdated_date>2016-09-04T15:05:00</lastupdated_date>
+        <original_meant_for/>
+    </project>
+    <project>
+        <project_code>9999033</project_code>
+        <emergency id="0"/>
+        <donor>United States (US-State-IO)</donor>
+        <donor_project_code> [OCT 9999021]</donor_project_code>
+        <recipient>OCHA</recipient>
+        <country>Burundi</country>
+        <cap_project_code>Regional Office for Southern Africa (O177)</cap_project_code>
+        <allocation_amount>10000</allocation_amount>
+        <allocation_amount_local_currency>USD</allocation_amount_local_currency>
+        <allocation_amount_local>10000</allocation_amount_local>
+        <allocation_amount_rate>1</allocation_amount_rate>
+        <date type="Pledge">2015-11-11T00:00:00</date>
+        <date type="Fiscalyear">2016-01-01T00:00:00</date>
+        <allocation_type type="OCT">Distribution:Regional Office for Southern Africa  [OCT 5070]</allocation_type>        
+        <allocation_status>Pledge</allocation_status>
+        <description>OCT  - description pledge with pledge date NEW 1</description>
+        <created_date>2016-09-01T15:00:00</created_date>
+        <lastupdated_date>2016-09-04T15:05:00</lastupdated_date>
+        <original_meant_for/>
+    </project>
+    <project>
+        <project_code>9999034</project_code>
+        <emergency id="0"/>
+        <donor>Germany</donor>
+        <donor_project_code> [OCT 9999022]</donor_project_code>
+        <recipient>OCHA</recipient>
+        <country>Burundi</country>
+        <cap_project_code>Regional Office for Southern Africa (O177)</cap_project_code>
+        <allocation_amount>9000</allocation_amount>
+        <allocation_amount_local_currency>EUR</allocation_amount_local_currency>
+        <allocation_amount_local>10000</allocation_amount_local>
+        <allocation_amount_rate>0.9</allocation_amount_rate>
+        <date type="Pledge">2015-11-11T00:00:00</date>
+        <date type="RCPLdate">2015-12-12T00:00:00</date>
+        <date type="Fiscalyear">2016-01-01T00:00:00</date>
+        <allocation_type type="OCT">Distribution:Regional Office for Southern Africa  [OCT 5070]</allocation_type>        
+        <allocation_status>Pledge</allocation_status>
+        <description>OCT 9999022 -  pledge with RCPL date NEW 1</description>
+        <created_date>2016-09-01T15:00:00</created_date>
+        <lastupdated_date>2016-09-04T15:05:00</lastupdated_date>
+        <original_meant_for/>
+    </project>
+    <project>
+        <project_code>9999035</project_code>
+        <emergency id="0"/>
+        <donor>Germany</donor>
+        <donor_project_code> [OCT 9999023]</donor_project_code>
+        <recipient>OCHA</recipient>
+        <country>Cameroon</country>
+        <cap_project_code>Regional Office for Southern Africa (O177)</cap_project_code>
+        <allocation_amount>9100</allocation_amount>
+        <allocation_amount_local_currency>EUR</allocation_amount_local_currency>
+        <allocation_amount_local>10000</allocation_amount_local>
+        <allocation_amount_rate>0.91</allocation_amount_rate>
+        <date type="Pledge">2015-11-11T00:00:00</date>
+        <date type="Fiscalyear">2016-01-01T00:00:00</date>
+        <allocation_type type="OCT">Distribution:Regional Office for Southern Africa  [OCT 5070]</allocation_type>        
+        <allocation_status>Paid</allocation_status>
+        <description>OCT  - description Paid with pledge date NEW 1</description>
+        <created_date>2016-09-01T15:00:00</created_date>
+        <lastupdated_date>2016-09-04T15:05:00</lastupdated_date>
+        <original_meant_for/>
+    </project>
+    <project>
+        <project_code>9999036</project_code>
+        <emergency id="0"/>
+        <donor>Germany</donor>
+        <donor_project_code> [OCT 9999023]</donor_project_code>
+        <recipient>OCHA</recipient>
+        <country>Cameroon</country>
+        <cap_project_code>Regional Office for Southern Africa (O177)</cap_project_code>
+        <allocation_amount>9100</allocation_amount>
+        <allocation_amount_local_currency>EUR</allocation_amount_local_currency>
+        <allocation_amount_local>10000</allocation_amount_local>
+        <allocation_amount_rate>0.91</allocation_amount_rate>
+        <date type="Pledge">2015-11-11T00:00:00</date>
+        <date type="RCPLdate">2015-12-12T00:00:00</date>
+        <date type="Fiscalyear">2016-01-01T00:00:00</date>
+        <allocation_type type="OCT">Distribution:Regional Office for Southern Africa  [OCT 5070]</allocation_type>        
+        <allocation_status>Paid</allocation_status>
+        <description>OCT  - description Paid with RCPL date NEW 1</description>
+        <created_date>2016-09-01T15:00:00</created_date>
+        <lastupdated_date>2016-09-04T15:05:00</lastupdated_date>
+        <original_meant_for/>
+    </project>
+    <project>
+        <project_code>9999037</project_code>
+        <emergency id="0"/>
+        <donor>Germany</donor>
+        <donor_project_code> [OCT 9999023]</donor_project_code>
+        <recipient>OCHA</recipient>
+        <country>Cameroon</country>
+        <cap_project_code>Regional Office for Southern Africa (O177)</cap_project_code>
+        <allocation_amount>9100</allocation_amount>
+        <allocation_amount_local_currency>EUR</allocation_amount_local_currency>
+        <allocation_amount_local>10000</allocation_amount_local>
+        <allocation_amount_rate>0.91</allocation_amount_rate>
+        <date type="Pledge">2015-11-11T00:00:00</date>
+        <date type="RCPLdate">2015-12-12T00:00:00</date>
+        <date type="DEPHdate">2015-12-13T00:00:00</date>
+        <date type="Fiscalyear">2016-01-01T00:00:00</date>
+        <allocation_type type="OCT">Distribution:Regional Office for Southern Africa  [OCT 5070]</allocation_type>        
+        <allocation_status>Paid</allocation_status>
+        <description>OCT  - description Paid with DEPH date NEW 1</description>
+        <created_date>2016-09-01T15:00:00</created_date>
+        <lastupdated_date>2016-09-04T15:05:00</lastupdated_date>
+        <original_meant_for/>
+    </project>
+    <project>
+        <project_code>9999038</project_code>
+        <emergency id="0"/>
+        <donor>Germany</donor>
+        <donor_project_code> [OCT 9999023]</donor_project_code>
+        <recipient>OCHA</recipient>
+        <country>Cameroon</country>
+        <cap_project_code>Regional Office for Southern Africa (O177)</cap_project_code>
+        <allocation_amount>9100</allocation_amount>
+        <allocation_amount_local_currency>EUR</allocation_amount_local_currency>
+        <allocation_amount_local>10000</allocation_amount_local>
+        <allocation_amount_rate>0.91</allocation_amount_rate>
+        <date type="Pledge">2015-11-11T00:00:00</date>
+        <date type="RCPLdate">2015-12-12T00:00:00</date>
+        <date type="DEPHdate">2015-12-13T00:00:00</date>
+        <date type="Fiscalyear">2016-01-01T00:00:00</date>
+        <allocation_type type="OCT">Distribution:Regional Office for Southern Africa  [OCT 5070]</allocation_type>        
+        <allocation_status>Pledge</allocation_status>
+        <description>OCT  - description pledge with DEPH date NEW 1</description>
+        <created_date>2016-09-01T15:00:00</created_date>
+        <lastupdated_date>2016-09-04T15:05:00</lastupdated_date>
+        <original_meant_for/>
+    </project>
+</projects>
