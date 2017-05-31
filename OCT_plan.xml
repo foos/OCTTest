@@ -1,0 +1,24 @@
+<!--- to a country with plan, but no cap supplied. --->
+<projects published="2016-09-11T10:02:27" allocationyear="0">
+    <project>
+        <project_code>9999403</project_code>
+        <emergency id="0"/>
+        <donor>Sweden (Sida)</donor>
+        <donor_project_code> [OCT 9999401]</donor_project_code>
+        <recipient>OCHA</recipient>
+        <country>Somalia</country>
+        <cap_project_code></cap_project_code>
+        <allocation_amount>7040</allocation_amount>
+        <allocation_amount_local_currency>SEK</allocation_amount_local_currency>
+        <allocation_amount_local>10000</allocation_amount_local>
+        <allocation_amount_rate>0.7</allocation_amount_rate>
+        <date type="Pledge">2015-11-05T00:00:00</date>
+        <date type="Fiscalyear">2016-01-01T00:00:00</date>
+        <allocation_type type="OCT">Distribution to Somalia</allocation_type>        
+        <allocation_status>Paid</allocation_status>
+        <description> Distribution to Somalia</description>
+        <created_date>2016-09-01T15:00:00</created_date>
+        <lastupdated_date>2016-09-05T15:05:00</lastupdated_date>
+        <original_meant_for/>
+    </project>
+</projects>
